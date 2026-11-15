@@ -11,6 +11,6 @@ import react from "@vitejs/plugin-react";
 const REPO_BASE = "/REPLACE_WITH_REPO_NAME/";
 
 export default defineConfig({
-  base: REPO_BASE,
+  base: astronaut-mission-trainer,
   plugins: [react()],
 });
