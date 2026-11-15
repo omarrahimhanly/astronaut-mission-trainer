@@ -8,7 +8,7 @@ import react from "@vitejs/plugin-react";
 // (Keep the leading and trailing slashes. If you deploy to a user/org site
 // named <user>.github.io, or a custom domain, use base: "/" instead.)
 // ============================================================================
-const REPO_BASE = "/REPLACE_WITH_REPO_NAME/";
+const REPO_BASE = "/astronaut-mission-trainer/";
 
 export default defineConfig({
   base: astronaut-mission-trainer,
